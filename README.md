@@ -84,8 +84,13 @@ Settlement happens: Money moves from the Issuer to the Acquirer, and finally to 
 Swipe → Authorization → Approval → Product given → Later Settlement
 
 This entire process takes 2–4 seconds, even though there are multiple parties involved.
-
+AI Generated Image from ChatGPT :
 ![ChatGPT Image Apr 8, 2025, 01_15_30 AM](https://github.com/user-attachments/assets/bfd30108-34da-4eea-a465-b5a9b8732e30) 
+
+AI Generated animated video Invideo AI :
+
+
+
 
 
 
