@@ -90,6 +90,28 @@ AI Generated Image from ChatGPT :
 AI Generated animated video Invideo AI :
 
 
+"Tushar"
+Future Trends and Challenges in Credit Card Systems
+
+As we know, the credit card industry is a significantly transforming industry that has been experiencing rapid technological advancement. Consumer expectations are one key feature that should be addressed in the future, so I am going to talk about the future trends and challenges in the credit card industry.
+As we are heading towards a contactless and digital payment system. The credit card industry is using the NFC(near-field communication) technology is becoming the norm for making in-store transactions due to its high speed and convenience.
+
+
+However, in today's world, where security is the main concern, credit cards are evolving to be relevant, secure, and trusted by some consumers. As we know, the hacking of our personal information on the internet is a big phenomenon in today’s digital world. The credit card is somewhat of a safe option because fewer stolen cases and a smoother, safer user experience in this mobile and contactless payment world. Mostly developed countries use credit cards for making transactions. 
+As the credit card offers an interest-free period(usually 20-50 days), which means you can pay later without extra cost. And also give reward points & cashback, and other discounts for consumers. It also gives purchase protection, insurance, and extended warranty. 
+It also has higher spending limits and emergency funds for big purchases. One of the main advantages is that the credit cards are widely accepted globally, which is useful for travel in foreign countries. It also provides the option of buy now and pay later(BNPL), which offers a flexible payment option.
+
+AI use in Credit Card Systems to  minimize the risk
+AI and machine learning are revolutionizing credit card fraud detection by analyzing real-time transaction patterns and user behavior, making systems far more effective than traditional rule-based methods. Unlike rigid systems that simply block foreign transactions or large purchases, AI assesses multiple factors—such as spending history, location, purchase timing, and device usage—to distinguish between legitimate and fraudulent activity. 
+For example, if a user who typically spends in Mumbai suddenly buys a laptop in Germany, AI checks if they recently booked a flight there instead of outright declining the transaction. It also detects subtle fraud attempts, like micro-transactions used to test stolen cards, and prevents "friendly fraud" by verifying purchase authenticity through device and location data. Additionally, AI stops automated bot attacks by identifying rapid, abnormal transaction patterns. 
+By reducing false declines—such as wrongly blocking a hotel booking abroad when the user has a travel history—AI enhances both security and customer experience. Major players like Mastercard, Visa, and leading banks now use AI-driven systems to combat fraud dynamically, ensuring safer transactions while minimizing disruptions for legitimate users.  
+
+Challenges faced by credit cards 
+
+Digital wallets that we use in our daily life to make transactions for commodities such as Apple Pay and Google Pay. This allows user to store multiple payment methods securely to make transactions on their smartphones and other devices such as smartwatches by the use of UPI(Unified Payments Interface). This is one of the big challenges faced by the credit card industry, and also the virtual cards, where we save our card information in our smartphones and use that for buying anything on e-commerce websites. Which is one of the main reasons for the elimination of physical cards is the rising concern towards credit cards. Both are fast, low-cost, and simple for making transactions. If you pay by virtual card, it gets faster than putting your information in again and again. 
+
+
+
 
 
 
