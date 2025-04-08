@@ -95,6 +95,31 @@ AI Generated Image from ChatGPT :
 
 AI Generated animated video Invideo AI :
 
+"Sanket"
+
+Regulatory and Compliance Framework
+
+I will be coevring the topics which are below.
+
+1. PCI-DSS- Payement Card Industry - Data security Standard
+
+here i will talk about what is PCI-DSS and the dvelopemnt of it, the major contributions of different compeinies in developing it. this is a glbalsecurity standdard which is developed by big brand which manifacture cards such as Visa, and Mastercard.
+This Data Security Stanadard is applicable to those who are inckuded in the use of cards for storing data, or proccessing it or transmitting it. traders, and payment proccessors are teh formemost to be included in it.
+The Data Security standard PCI-DSS can hold power in follwoing operation:
+Secure Network, Protecting cardholders data, Maintaining the system to be non vulnarable for visurses,
+Accessing data(Deciding who can acces the data).
+
+2. Role of central Banks and National regulations
+e role of Central Bank (Reserve BAnk of India)- regulating card issuing, transaction guidelines, and ssolving the problems related to the use card use.for example to sent the guidelines and to wor on issues relted to card use the central bank came with the concept of tokenization, this proccess turned the cards numbers to digital tokens while tranacting.
+
+3. GDPR and data privacy
+GDPR stands for Genral data protection Regulation, it does protect personal data, including financial details used in credit ard transactions. It is enforced by the european union. GDPR ensures some rights to the cardholder- Companies must take consent from user to store user data, users being allowed to see the data of them and purposeof use of Data, users can ask removal of thier data, if data relvant issues happen thenthe authority mus be notified by the companies. e.g. US based companies who store the data of EU cardholder, they must follow GDPR.
+
+4. Regulation of transaction fees and interest rates
+the fees structure involves Interchange fees, Assesment fees, merchnat discount rate which is total fees merachnat pays. the EU, RBI, US have thier own structure of fees for the us use cards.
+
+
+
 
 "Tushar"
 
