@@ -5,7 +5,7 @@ In this repository we (Mayur, Sanket,Tushar, Aryan and Anwarul) are doing the pr
 In today's meet (07 April 2025 ) we sit together and discussed about the presentations and divided sub topics among us. We have already decided the topic i.e. How do credit card transactions work ? before 2 days. 
 
 
-Anwarul(Basically, I will be explain about,
+"Anwarul"(Basically, I will be explain about,
 Diffrent types of fees in credit card transactions Assesssment fees, Interchange Fees, Merchant discount rate.
 
 How bank and card networks makes money , why all cards cost are not same like why credit cards have higher fees than debit cards.
@@ -18,7 +18,8 @@ Then i will  explaining why all of this is important to know how these small cos
 
 I will use simple examples to explain credit card system function.
 
-MD ARYAAN(Security and Fraud prevention mechanisms)
+
+"MD ARYAAN"(Security and Fraud prevention mechanisms)
 
 Subtopics that i'll be covering are:
 
