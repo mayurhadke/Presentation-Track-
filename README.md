@@ -1,4 +1,4 @@
-# Presentation-Track-
+![image](https://github.com/user-attachments/assets/9b0fa1c0-be1b-45d5-8079-c02c626b4f51)# Presentation-Track-
 In this repository we (Mayur, Sanket,Tushar, Aryan and Anwarul) are doing the presentation work . 
 
 
@@ -33,7 +33,33 @@ iv)Typical fraud types (card-not-present, phishing, skimming) and countermeasure
 
 v)Why it matters: Emphasizes the trust infrastructure for safe use: The effect of security controls and its significance.
 
+1)Securing Your Card Information Online: How Does it Work?
 
+Encryption: Turning Your Information into a Hidden Code
+
+-What it does: Think of encryption as putting your card details into a special scrambler machine. It uses advanced mathematical formulas (algorithms) and a secret 'key' to transform your readable information (like your card number) into unreadable gibberish (ciphertext).
+
+![images](https://github.com/user-attachments/assets/9f7e2d4e-ea30-496f-85e1-bb400444be40)
+
+-Relevance of the problem: In cases where cybercriminals successfully steal your data in transit through the internet, or if they illegally pull it out of an organization's database, they end up getting only a meaningless ciphertext. Without the specific 'key' to decode it, such data is useless to them.
+
+End-to-End Encryption: The data or information is encrypted on the sender's side and can be accessed only by the intended recipient. This activity is highly important, especially for  financial transactions.
+
+![image](https://github.com/user-attachments/assets/7ef85af7-cd98-4808-80ac-c1ea4fe392c1)
+
+Tokenization: Implementing Proxies for Your Confidential Information
+
+-Definition: Rather than constantly giving out your actual card number, tokenization replaces it with a one-of-a-kind, randomly generated placeholder – a 'token'. This token is a placeholder for your actual information, which is stored securely elsewhere.
+
+-Why it matters: If the token is accessed by hackers, it is usually useless to them. It doesn't hold your actual card details, so the threat is much smaller. Most of the systems you utilize (such as digital wallets) are greatly dependent on this.
+
+-Dynamic Tokenization: In some systems, the tokens change often. Hence, even when a hacker steals a token, it will become useless after a few seconds, and so they cannot use it again.
+
+CVV/CVC Validation:
+
+-there are 3 or 4-digit number on the back of the credit or debit card? That is the CVV (Card Verification Value) or CVC (Card Verification Code). When you are entering the card details, it assists in confirming that you actually do possess the card yourself, so it is more difficult for someone who only received the card number to use it illegally.
+
+![image](https://github.com/user-attachments/assets/b825b1a5-6827-4d09-acbc-fc98451aff99)
 
 
 (Mayur) 
