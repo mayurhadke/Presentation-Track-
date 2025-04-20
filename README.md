@@ -61,6 +61,9 @@ CVV/CVC Validation:
 
 ![image](https://github.com/user-attachments/assets/b825b1a5-6827-4d09-acbc-fc98451aff99)
 
+Dear Aryaan, This is a well-structured and beginner-friendly explanation of key payment security techniques. The use of analogies (like the "scrambler machine") makes complex ideas easy to grasp. (comment by Mayur) 
+
+
 
 (Mayur) 
 https://youtu.be/cYMeZs_EcqE?si=WtpP1o6sSQzRntqF : Dear All go thorough this video. It will be completely helpful for us. 
