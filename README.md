@@ -18,6 +18,8 @@ Then i will  explaining why all of this is important to know how these small cos
 
 I will use simple examples to explain credit card system function.
 
+Dear Anwarul, add the detailed explanation of your topic. Give the explicit information. (comment from Mayur) 
+
 
 "MD ARYAAN"(Security and Fraud prevention mechanisms)
 
