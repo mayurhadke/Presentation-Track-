@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9b0fa1c0-be1b-45d5-8079-c02c626b4f51)# Presentation-Track-
+# Presentation-Track-
 In this repository we (Mayur, Sanket,Tushar, Aryan and Anwarul) are doing the presentation work . 
 
 
