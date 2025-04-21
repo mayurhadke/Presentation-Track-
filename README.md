@@ -58,7 +58,7 @@ Tokenization: Implementing Proxies for Your Confidential Information
 
 -Definition: Rather than constantly giving out your actual card number, tokenization replaces it with a one-of-a-kind, randomly generated placeholder – a 'token'. This token is a placeholder for your actual information, which is stored securely elsewhere.
 
--Why it matters: If the token is accessed by hackers, it is usually useless to them. It doesn't hold your actual card details, so the threat is much smaller. Most of the systems you utilize (such as digital wallets) are greatly dependent on this.
+-Why it matters: If the token is accessed by hackers, it is usually useless to them. It doesn't hold your actual card details, so the threat is much smaller. Most of the systems you utilize (such as digital wallets) are greatly dependent on this. 
 
 -Dynamic Tokenization: In some systems, the tokens change often. Hence, even when a hacker steals a token, it will become useless after a few seconds, and so they cannot use it again.
 
