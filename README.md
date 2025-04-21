@@ -185,7 +185,7 @@ Digital wallets that we use in our daily life to make transactions for commoditi
 
 Here is the link for ppt-
 https://www.canva.com/design/DAGlSJT2zGc/dBEdVt8YDW_3mMfqzVwBLA/edit
-we will add more in slides. 
+we will add more in slide. 
 
 
 I will do the introduction of credit card where I will discuss the history and its orgin along with its prevalence in contemporary times. 
