@@ -183,7 +183,9 @@ Challenges faced by credit cards
 
 Digital wallets that we use in our daily life to make transactions for commodities such as Apple Pay and Google Pay. This allows user to store multiple payment methods securely to make transactions on their smartphones and other devices such as smartwatches by the use of UPI(Unified Payments Interface). This is one of the big challenges faced by the credit card industry, and also the virtual cards, where we save our card information in our smartphones and use that for buying anything on e-commerce websites. Which is one of the main reasons for the elimination of physical cards is the rising concern towards credit cards. Both are fast, low-cost, and simple for making transactions. If you pay by virtual card, it gets faster than putting your information in again and again. 
 
-
+Here is the link for ppt-
+https://www.canva.com/design/DAGlSJT2zGc/dBEdVt8YDW_3mMfqzVwBLA/edit
+we will add more in slides. 
 
 
 
