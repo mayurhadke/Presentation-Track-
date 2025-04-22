@@ -181,8 +181,8 @@ I will be coevring the topics which are below.
 
 1. PCI-DSS- Payement Card Industry - Data security Standard
 
-here i will talk about what is PCI-DSS and the dvelopemnt of it, the major contributions of different compeinies in developing it. this is a glbalsecurity standdard which is developed by big brand which manifacture cards such as Visa, and Mastercard.
-This Data Security Stanadard is applicable to those who are inckuded in the use of cards for storing data, or proccessing it or transmitting it. traders, and payment proccessors are teh formemost to be included in it.
+here i will talk about what is PCI-DSS and the dvelopemnt of it, the major contributions of different compeinies in developing it. this is a global security standdard which is developed by big brand which manifacture cards such as Visa, and Mastercard.
+This Data Security Stanadard is applicable to those who are included in the use of cards for storing data, or proccessing it or transmitting it. traders, and payment proccessors are teh formemost to be included in it.
 The Data Security standard PCI-DSS can hold power in follwoing operation:
 Secure Network, Protecting cardholders data, Maintaining the system to be non vulnarable for visurses,
 Accessing data(Deciding who can acces the data).
