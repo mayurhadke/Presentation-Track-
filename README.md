@@ -8,29 +8,6 @@ The History of Credit Card
 The history of credit cards dates back to the 1920s, when some U.S. companies, particularly in the oil and hotel industries, began issuing cards to loyal customers for convenient purchases. These early forms of credit cards were limited to specific businesses. A major development came in 1950 with the introduction of the Diners Club card, recognized as the first modern, universal credit card that could be used at multiple establishments. Building on this innovation, in 1958, Bank of America launched the BankAmericard in California, which became the first bank-issued revolving credit card, allowing users to carry a balance over time. These milestones laid the foundation for the widespread use of credit cards today.
 
 
-"Anwarul"(Basically, I will be explain about,
-
-Diffrent types of fees in credit card transactions Assesssment fees, Interchange Fees, Merchant discount rate.
-Interchange Fees- It goes to that bank which give you the card.
-Assesssment fees- It goes to card network like mastercard, visa etc.
-Merchant discount rate- It is paid by shop's to accept your money by credit cards.
-
-How bank and card networks makes money like banks earn by taking intercharge fees, why all cards cost are not same like why credit cards have higher fees than debit cards. Credit cards have more risk also they give us some good offers, cashback and give us some good deals like if we use credit card for flight or train ticket booking we will get exclusive disccount. On other hand deabit card is connected to your money they don't have too much  risk that's why credit card fees are higher than debit cards.
-
-How premium card cost merchants more. 
-Premium cards provied us better discount also they have to cover fess like interchange that's why premium card cost merchants more.
-
-How it impact on small businesess- There is a minimum amount purchase setup for cards or any additinal charges for the usage of cards by small businesses.
-
-Then i will  explaining why all of this is important to know how these small costs affect our payment and Why people use diffrent type of payments like cash.
-
-Then,I will use simple examples to explain credit card system function. Suppose if you buy a bag and pay  ₹100  to shopkeeper by credit card they only get ₹98 rest ₹2 will goes to card and bank network.If he sales 100 bag in one day then he will be in loos of ₹200.
-
-![image](https://github.com/user-attachments/assets/20b7aee5-0607-4490-ac2d-4c773a582cc2)
-
-
-
-Dear Anwarul, add the detailed explanation of your topic. Give the explicit information. (comment from Mayur) 
 
 
 "MD ARYAAN"(Security and Fraud prevention mechanisms)
