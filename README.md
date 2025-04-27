@@ -21,7 +21,11 @@ How it impact on small businesess- There is a minimum amount purchase setup for 
 
 Then i will  explaining why all of this is important to know how these small costs affect our payment and Why people use diffrent type of payments like cash.
 
-Then,I will use simple examples to explain credit card system function. Suppose if you buy a icecream and pay  ₹100  to shopkeeper by credit card they only get ₹98 rest ₹2 will goes to card and bank network.If he sales 100 icecream in one day then he will be in loos of ₹200.
+Then,I will use simple examples to explain credit card system function. Suppose if you buy a bag and pay  ₹100  to shopkeeper by credit card they only get ₹98 rest ₹2 will goes to card and bank network.If he sales 100 bag in one day then he will be in loos of ₹200.
+
+![image](https://github.com/user-attachments/assets/20b7aee5-0607-4490-ac2d-4c773a582cc2)
+
+
 
 Dear Anwarul, add the detailed explanation of your topic. Give the explicit information. (comment from Mayur) 
 
