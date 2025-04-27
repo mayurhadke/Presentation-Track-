@@ -13,7 +13,7 @@ The Members of Group and thier personal jounral repository link
 Mayur : https://github.com/mayurhadke/Course-Track- 
 Anwarul : http://github.com/Anwarul12
 Sanket : https://github.com/GitOtsanket/Exploring-Digital-tech-OT
-Tushar : 
+Tushar : https://github.com/Tushar-Khobragade
 MD Aryaan : 
 
 
