@@ -11,7 +11,7 @@ The history of credit cards dates back to the 1920s, when some U.S. companies, p
 The Members of Group and thier personal jounral repository link 
 
 Mayur : https://github.com/mayurhadke/Course-Track- 
-Anwarul : 
+Anwarul : http://github.com/Anwarul12
 Sanket : https://github.com/GitOtsanket/Exploring-Digital-tech-OT
 Tushar : 
 MD Aryaan : 
