@@ -31,3 +31,4 @@ I will add my slide in the presentation.
 Here I am working on git through WSL   
 
 
+A credit card is a payment card issued by a bank that allows users to purchase goods or services on credit. It's essentially a line of credit that can be used to make purchases and then paid back later. The payment card number on the card is used to verify the transaction with the issuing bank. (written from WSL) 
