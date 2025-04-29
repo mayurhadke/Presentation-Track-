@@ -1,2 +1,2 @@
-this is text from sanket making new file to oush to git cloud.
+this is text from sanket making new file to push to git cloud. from the git bash, i used clone command and then created the this file and pushed it to main branch of our groups repository. 
 
